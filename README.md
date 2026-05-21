@@ -1,6 +1,6 @@
 # Navigation
 
-- [About](#about)
+- [About Me](#about)
 - [Impact / Experience](#impact--experience)
 - [Projects](#projects)
 - [Competency Map](#competency-map)
@@ -101,7 +101,7 @@
 
 ---
 
-#### 6. 📬 Contact & Status
+#### 6. 📬 Contact
 
 + **Status:** Open to Executive, Director-level AI PM roles
 
