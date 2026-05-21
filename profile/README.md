@@ -52,9 +52,17 @@ I work at the intersection of:
 
 ## Contact
 
-- LinkedIn: <add-link>
-- Email: <add-email>
-- GitHub: https://github.com/<username>
+
+## Contact
+
++ **Status:** Open to Executive, Director-level AI PM roles
+
+| | |
+| :--- | :--- |
+| **📧 Email:** | karthik_prdmgr@hotmail.com |
+| **💼 LinkedIn:** | [Connect on LinkedIn](https://linkedin.com/in) |
+| **🤝 Working Style** | [Collaboraton guide](how-to-work-with-me.md) |
+| **🤝 GitHub** | [Git](https://github.com/Karthik-pmlead/Karthik-pmlead) |
 
 ---
 
