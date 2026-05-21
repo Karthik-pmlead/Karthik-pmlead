@@ -119,6 +119,12 @@
 
 ---
 
+## Resume
+
+📄 Download Resume: [View PDF](./Karthik_Resume.pdf)
+
+--- 
+
 ## Contact
 
 + **Status:** Open to Executive, Director-level AI PM roles
