@@ -1,3 +1,8 @@
+## Navigation
+
+- [Profile Home](./README.md)
+
+---
 # How to Work with Me
 
 I lead our PM team to deliver customer-obsessed products that scale massively and drive business impact. 
