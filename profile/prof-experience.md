@@ -1,12 +1,10 @@
-# Professional Experience & Impact
-
-A structured summary of my product experience, focus areas, and impact contributions.
-
----
-
 ## Navigation
 
 - [Profile Home](./README.md)
+
+# Professional Experience & Impact
+
+A structured summary of my product experience, focus areas, and impact contributions.
 
 ---
 
