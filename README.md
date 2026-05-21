@@ -1,7 +1,7 @@
 # Navigation
 
 - [About Me](#About-Me)
-- [Impact / Experience](#impact--experience)
+- [Professional Experience](#Professional-Experience-Impact)
 - [Projects](#projects)
 - [Competency Map](#competency-map)
 - [Tech Mastery](#tech-mastery)
@@ -20,7 +20,7 @@
 
 ---
 
-## 2. 💼 Professional Experience & Impact
+## Professional Experience Impact
 
 - **Led** technical teams (Engg/DS/Design) through complete product lifecycles, achieving **95% on-time delivery**
 - **Architected** AI product roadmaps aligning C-suite priorities with scalable technical execution
