@@ -1,3 +1,12 @@
+## Navigation
+
+- [Profile Home](./README.md)
+- [Skills Development](./skills-dev.md)
+- [Working Style](./working-style.md)
+- [Back to Home](../README.md)
+
+---
+
 # My Online Courses ![Online Courses](https://img.shields.io/badge/Online%20Courses-blue?style=flat-square&logo=readthedocs)
 
 Welcome to my list of completed and ongoing online courses! Below is a collection of courses I've taken to expand my knowledge in various subjects. 
