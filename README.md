@@ -8,18 +8,6 @@
 
 ---
 
-#### 📬 Contact & Status
-
-+ **Status:** Open to Executive, Director-level AI PM roles
-
-| | |
-| :--- | :--- |
-| **📧 Email:** | karthik_prdmgr@hotmail.com |
-| **💼 LinkedIn:** | [Connect on LinkedIn](https://linkedin.com/in) |
-| **🤝 Working Style** | [Collaboraton guide](how-to-work-with-me.md) |
-
----
-
 ## 2. 💼 Professional Experience & Impact
 
 - **Led** technical teams (Engg/DS/Design) through complete product lifecycles, achieving **95% on-time delivery**
@@ -28,7 +16,25 @@
 
 ---
 
-## 3. 📊 AI Product Leadership - Competency Map
+## 3. 🌟 Professional Development 
+
+| Section | Link |
+|:--------|:-----|
+| **🏆 Certifications** | [Full Certifications](Professional_Development.md) |
+| **💼 Projects** |  [Projects Index](Projects.md) |
+
+
+### 3b. 📁  Featured Projects
+
+| # | Project | Repo | Impact | Live Demo |
+|---|---------|------|--------|-----------|
+| 1 | **RetailRocket RecSys** | [![Repo](shields)](...) | +22% CTR | [![Live](green)] |
+| 2 | **Sentiment Foresight** | [![Repo](shields)](...) | 40% faster insights | [![Live](green)] |
+| 3 | **Healthcare Optimizer** | [![Repo](shields)](...) | 15% scheduling gain | [View] |
+
+---
+
+## 4. 📊 AI Product Leadership - Competency Map
 
 <img src="images/flywheel.png" width="300" align="right" hspace="20">
 
@@ -42,7 +48,7 @@
 | 6.0 | **Think** | [ai-product-thinking/](08-ai-product-thinking/) | Mental models |
 | 7.0 | **Govern** | [security-compliance/](07-security-compliance/) | Enterprise AI |
 
-### 3b. 🛠️ Technical Mastery & Business Impact
+### 4b. 🛠️ Technical Mastery & Business Impact
 
 | Category | Core Competencies | Quantified Business Value |
 |:---------|:------------------|:--------------------------|
@@ -54,25 +60,7 @@
 
 ---
 
-## 4. 🌟 Professional Development 
-
-| Section | Link |
-|:--------|:-----|
-| **🏆 Certifications** | [Full Certifications](Professional_Development.md) |
-| **💼 Projects** |  [Projects Index](Projects.md) |
-
-
-### 4b. 📁  Featured Projects
-
-| # | Project | Repo | Impact | Live Demo |
-|---|---------|------|--------|-----------|
-| 1 | **RetailRocket RecSys** | [![Repo](shields)](...) | +22% CTR | [![Live](green)] |
-| 2 | **Sentiment Foresight** | [![Repo](shields)](...) | 40% faster insights | [![Live](green)] |
-| 3 | **Healthcare Optimizer** | [![Repo](shields)](...) | 15% scheduling gain | [View] |
-
----
-
-### 5. 📚 Continuous Learning & Though Leadership
+### 5. 📚 Continuous Learning & Thought Leadership
 
 #### **📈 Leading Industry Voices**
 
@@ -99,6 +87,19 @@
 | [Andrew Chen](https://andrewchen.com/) | Growth & Network Effects |
 | [Product Coalition](https://productcoalition.com) | Product Management Insights |
 | [Dept of Product](https://departmentofproduct.com) | Product Leadership Content |
+
+---
+
+#### 6. 📬 Contact & Status
+
++ **Status:** Open to Executive, Director-level AI PM roles
+
+| | |
+| :--- | :--- |
+| **📧 Email:** | karthik_prdmgr@hotmail.com |
+| **💼 LinkedIn:** | [Connect on LinkedIn](https://linkedin.com/in) |
+| **🤝 Working Style** | [Collaboraton guide](how-to-work-with-me.md) |
+| **🤝 GitHub** | [Git](https://github.com/Karthik-pmlead/Karthik-pmlead)) |
 
 ---
 
