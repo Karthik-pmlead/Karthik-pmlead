@@ -2,9 +2,9 @@
 
 - [About Me](#About-Me)
 - [Professional Experience](#Professional-Experience-Impact)
-- [Projects](#projects)
-- [Competency Map](#competency-map)
-- [Tech Mastery](#tech-mastery)
+- [Projects](#Featured-Projects)
+- [Competency Map](#Competency-Map)
+- [Tech Mastery](#Technical-Mastery-Business-Impact)
 - [Certifications](#certifications)
 - [Thought Leadership](#Continuous-Learning-Thought-Leadership)
 - [Contact](#contact)
@@ -26,9 +26,11 @@
 - **Architected** AI product roadmaps aligning C-suite priorities with scalable technical execution
 - **Delivered** high-impact launches by translating complex ML requirements into stakeholder-ready strategies
 
+[↑ Back to top](#top)
+
 ---
 
-## 3. 🌟 Professional Development 
+##  Certifications
 
 | Section | Link |
 |:--------|:-----|
@@ -36,7 +38,7 @@
 | **💼 Projects** |  [Projects Index](Projects.md) |
 
 
-### 3b. 📁  Featured Projects
+## Featured Projects
 
 | # | Project | Repo | Impact | Live Demo |
 |---|---------|------|--------|-----------|
@@ -44,9 +46,11 @@
 | 2 | **Sentiment Foresight** | [![Repo](shields)](...) | 40% faster insights | [![Live](green)] |
 | 3 | **Healthcare Optimizer** | [![Repo](shields)](...) | 15% scheduling gain | [View] |
 
+[↑ Back to top](#top)
+
 ---
 
-## AI Product Leadership - Competency Map
+## Competency Map
 
 <img src="images/flywheel.png" width="300" align="right" hspace="20">
 
@@ -60,7 +64,7 @@
 | 6.0 | **Think** | [ai-product-thinking/](08-ai-product-thinking/) | Mental models |
 | 7.0 | **Govern** | [security-compliance/](07-security-compliance/) | Enterprise AI |
 
-### Technical Mastery & Business Impact
+### Technical Mastery Business Impact
 
 | Category | Core Competencies | Quantified Business Value |
 |:---------|:------------------|:--------------------------|
@@ -69,6 +73,8 @@
 | **🎯 Product Execution** | • PRDs, OKRs, MLOps roadmaps<br>• Technical ↔ business translation<br>• Stakeholder alignment & communication | **95% on-time product delivery** record<br>**Clear strategy-to-execution** translation |
 | **📈 Technical Storytelling** | • Executive Tableau dashboards<br>• Interactive demos (Streamlit, Gradio)<br>• ML concept visualization | **3x faster stakeholder buy-in**<br>**Effective cross-functional alignment** |
 | **☁️ Production Readiness** | • Cloud infra (GCP/AWS)<br>• Containerization (Docker)<br>• CI/CD (GitHub Actions), API design | **Production-scale deployments**<br>**Zero critical post-launch incidents** |
+
+[↑ Back to top](#top)
 
 ---
 
@@ -101,6 +107,7 @@
 | [Dept of Product](https://departmentofproduct.com) | Product Leadership Content |
 
 [↑ Back to top](#top)
+
 ---
 
 #### Contact
@@ -115,6 +122,7 @@
 | **🤝 GitHub** | [Git](https://github.com/Karthik-pmlead/Karthik-pmlead)) |
 
 [↑ Back to top](#top)
+
 ---
 
 
