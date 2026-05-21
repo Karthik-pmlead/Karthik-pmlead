@@ -1,7 +1,7 @@
 ## Navigation
 
 - [Profile Home](./README.md)
-- [Skills Development](./skills-dev.md)
+- [Skills Development](./skills-development.md)
 - [Working Style](./working-style.md)
 - [Back to Home](../README.md)
 
