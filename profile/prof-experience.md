@@ -7,9 +7,6 @@ A structured summary of my product experience, focus areas, and impact contribut
 ## Navigation
 
 - [Profile Home](./README.md)
-- [Skills Development](./skills-dev.md)
-- [Working Style](./working-style.md)
-- [Back to Home](../README.md)
 
 ---
 
