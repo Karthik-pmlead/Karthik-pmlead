@@ -6,7 +6,7 @@
 - [Competency Map](#competency-map)
 - [Tech Mastery](#tech-mastery)
 - [Certifications](#certifications)
-- [Thought Leadership](#thought-leadership)
+- [Thought Leadership](#Continuous--Learning--Thought--Leadership)
 - [Contact](#contact)
 
 # 1. About Me - 👨‍💼 AI Product Leader | Technical Manager
@@ -45,7 +45,7 @@
 
 ---
 
-## 4. 📊 AI Product Leadership - Competency Map
+## AI Product Leadership - Competency Map
 
 <img src="images/flywheel.png" width="300" align="right" hspace="20">
 
@@ -59,7 +59,7 @@
 | 6.0 | **Think** | [ai-product-thinking/](08-ai-product-thinking/) | Mental models |
 | 7.0 | **Govern** | [security-compliance/](07-security-compliance/) | Enterprise AI |
 
-### 4b. 🛠️ Technical Mastery & Business Impact
+### Technical Mastery & Business Impact
 
 | Category | Core Competencies | Quantified Business Value |
 |:---------|:------------------|:--------------------------|
@@ -71,7 +71,7 @@
 
 ---
 
-### 5. 📚 Continuous Learning & Thought Leadership
+### Continuous Learning & Thought Leadership
 
 #### **📈 Leading Industry Voices**
 
@@ -99,6 +99,7 @@
 | [Product Coalition](https://productcoalition.com) | Product Management Insights |
 | [Dept of Product](https://departmentofproduct.com) | Product Leadership Content |
 
+[↑ Back to top](#top)
 ---
 
 #### Contact
@@ -112,7 +113,7 @@
 | **🤝 Working Style** | [Collaboraton guide](how-to-work-with-me.md) |
 | **🤝 GitHub** | [Git](https://github.com/Karthik-pmlead/Karthik-pmlead)) |
 
-[↑ Back to top](#navigation)
+[↑ Back to top](#top)
 ---
 
 
