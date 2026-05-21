@@ -9,7 +9,7 @@
 - [Thought Leadership](#Continuous-Learning-Thought-Leadership)
 - [Contact](#contact)
 
-# About Me 
+## About Me 
 | AI Product Leader | Technical Manager |
 
 > I lead product organizations at enterprise scale, blending deep engineering expertise, MBA-level strategic frameworks, and senior product leadership to deliver multimillion-dollar business impact.
@@ -64,7 +64,7 @@
 | 6.0 | **Think** | [ai-product-thinking/](08-ai-product-thinking/) | Mental models |
 | 7.0 | **Govern** | [security-compliance/](07-security-compliance/) | Enterprise AI |
 
-### Technical Mastery Business Impact
+## Technical Mastery Business Impact
 
 | Category | Core Competencies | Quantified Business Value |
 |:---------|:------------------|:--------------------------|
@@ -78,7 +78,7 @@
 
 ---
 
-### Continuous Learning Thought Leadership
+## Continuous Learning Thought Leadership
 
 #### **📈 Leading Industry Voices**
 
@@ -110,7 +110,7 @@
 
 ---
 
-#### Contact
+## Contact
 
 + **Status:** Open to Executive, Director-level AI PM roles
 
