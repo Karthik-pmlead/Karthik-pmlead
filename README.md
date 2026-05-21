@@ -6,7 +6,7 @@
 - [Competency Map](#competency-map)
 - [Tech Mastery](#tech-mastery)
 - [Certifications](#certifications)
-- [Thought Leadership](#Continuous--Learning--Thought--Leadership)
+- [Thought Leadership](#Continuous-Learning-&-Thought-Leadership)
 - [Contact](#contact)
 
 # 1. About Me - 👨‍💼 AI Product Leader | Technical Manager
