@@ -54,9 +54,6 @@ I work at the intersection of:
 
 ## Contact
 
-
-## Contact
-
 + **Status:** Open to Executive, Director-level AI PM roles
 
 | | |
