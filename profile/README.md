@@ -6,7 +6,8 @@ A concise snapshot of my skills, working style, and professional identity.
 
 ## Navigation
 
-- [Skills Development](./skills-development.md)
+- [Skills](./skills.md)
+- [Certifications](./certifications.md)
 - [Working Style](./working-style.md)
 - [Professional Experience](./prof-experience.md)
 - [Back to Home](../README.md)
