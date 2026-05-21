@@ -73,8 +73,6 @@ A structured view of platforms used for practice, learning, and research across 
 | **Research & Papers** | Papers With Code, arXiv, Hugging Face Learn, Google Scholar | Advanced ML research, model understanding, SOTA tracking |
 | **Reading & Industry Insights** | Medium (Towards Data Science), Substack (AI writers) | Industry trends, applied AI/product thinking |
 
----
-
 [↑ Back to Top](#top)
 
 ---
