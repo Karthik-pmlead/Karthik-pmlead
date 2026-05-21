@@ -8,6 +8,7 @@ A concise snapshot of my skills, working style, and professional identity.
 
 - [Skills Development](./skills-development.md)
 - [Working Style](./working-style.md)
+- [Professional Experience](./prof-experience.md)
 - [Back to Home](../README.md)
 
 ---
