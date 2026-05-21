@@ -21,7 +21,7 @@
 
 ---
 
-## [Knowledge Systems](#knowledge-systems)
+## Knowledge Systems
   
 - AI Product Leadership → https://github.com/Karthik-pmlead/ai-product-leadership
 - PM Workflow System → https://github.com/username/pm-workflow
