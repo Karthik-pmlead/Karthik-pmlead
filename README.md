@@ -1,6 +1,7 @@
 # Navigation
 
 - [About Me](#About-Me)
+- [Knowledge Systems](#knowledge-systems)
 - [Professional Experience](#Professional-Experience-Impact)
 - [Projects](#Featured-Projects)
 - [Competency Map](#Competency-Map)
@@ -18,6 +19,14 @@
 
 > Specialize in architecting production-grade PRDs, C-suite aligned roadmaps, and scalable operating models that translate complex technical requirements into stakeholder business objectives.
 
+---
+
+## [Knowledge Systems](#knowledge-systems)
+  
+- AI Product Leadership → https://github.com/Karthik-pmlead/ai-product-leadership
+- PM Workflow System → https://github.com/username/pm-workflow
+- AI Operating Model → https://github.com/username/ai-operating-model
+  
 ---
 
 ## Professional Experience Impact
