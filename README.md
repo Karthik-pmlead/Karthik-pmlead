@@ -8,6 +8,7 @@
 - [Tech Mastery](#Technical-Mastery-Business-Impact)
 - [Certifications](#certifications)
 - [Thought Leadership](#Continuous-Learning-Thought-Leadership)
+- [Resume](#Resume)
 - [Contact](#contact)
 
 ## About Me 
