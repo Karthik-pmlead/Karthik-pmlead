@@ -34,7 +34,7 @@
 
 | Section | Link |
 |:--------|:-----|
-| **🏆 Certifications** | [Full Certifications](certifications.md) |
+| **🏆 Certifications** | [Full Certifications](./profile/certifications.md) |
 | **💼 Projects** |  [Projects Index](Projects.md) |
 
 
