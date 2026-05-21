@@ -1,6 +1,6 @@
 # Navigation
 
-- [About Me](#about)
+- [About Me](#About-Me)
 - [Impact / Experience](#impact--experience)
 - [Projects](#projects)
 - [Competency Map](#competency-map)
@@ -9,7 +9,8 @@
 - [Thought Leadership](#Continuous-Learning-Thought-Leadership)
 - [Contact](#contact)
 
-# 1. About Me - 👨‍💼 AI Product Leader | Technical Manager
+# About Me 
+| AI Product Leader | Technical Manager |
 
 > I lead product organizations at enterprise scale, blending deep engineering expertise, MBA-level strategic frameworks, and senior product leadership to deliver multimillion-dollar business impact.
 
