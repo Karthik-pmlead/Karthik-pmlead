@@ -101,7 +101,7 @@
 
 ---
 
-#### 6. 📬 Contact
+#### Contact
 
 + **Status:** Open to Executive, Director-level AI PM roles
 
