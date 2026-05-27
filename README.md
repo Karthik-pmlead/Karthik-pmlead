@@ -52,11 +52,17 @@
 
 | # | Project | Repo | Impact | Live Demo |
 |---|---------|------|--------|-----------|
-| 1 | **RetailRocket RecSys** | [![Repo](shields)](...) | +22% CTR | [![Live](green)] |
-| 2 | **Sentiment Foresight** | [![Repo](shields)](...) | 40% faster insights | [![Live](green)] |
-| 3 | **Healthcare Optimizer** | [![Repo](shields)](...) | 15% scheduling gain | [View] |
+# 🚀 Featured Projects
 
-[↑ Back to top](#top)
+| Project | Description | Tech Stack | Key Concepts | Demo | Repo |
+|---|---|---|---|---|---|
+| **AI Decision Intelligence Platform** | Real-time operational intelligence platform that analyzes business, customer, and operational signals to generate explainable insights and recommendations. | FastAPI, React, WebSockets, Recharts | AI Orchestration, Explainable AI, Operational Intelligence, Real-Time Systems | [Video](https://drive.google.com/file/d/1BHj0T5WeL4iTuwmcPYbn_8026cH6RGnQ/view?pli=1) | [GitHub](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking/ai-decision-intelligence-platform) |
+| **Retail Recommendation System** | Real-time personalized recommendation engine that dynamically adapts to user browsing behavior using session-based ranking and engagement optimization. | FastAPI, React, WebSockets | Recommendation Systems, Session-Based Ranking, A/B Testing, Personalization | [Video](https://drive.google.com/file/d/1w_4tmZQCk_6XbIfuastUaJonf013qcla/view) | [GitHub](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking/real-time-retail-recommendation-system) |
+| **Market Intelligence & Risk Graph Platform** | AI-powered market intelligence system that correlates financial, operational, and risk signals across entities and events. | FastAPI, React, NetworkX | Risk Intelligence, Knowledge Graphs, Event Correlation, Entity Analysis | [Video](https://drive.google.com/file/d/1Dtm31bhvmrCkezcF27Ef3bd4MeJ6LWVr/view) | [GitHub](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking/financial-risk-graph-intelligence) |
+| **Sentiment Intelligence Platform** | Real-time sentiment monitoring system that analyzes customer and operational signals to identify trends, risks, and engagement patterns. | FastAPI, Transformers, React | NLP, Sentiment Analysis, Explainability, Streaming Analytics | [Video](https://drive.google.com/file/d/145Y7sMMRVpnD88HvulEy8ul_hGg9Fda-/view) | [GitHub](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking/sentiment-intelligence-platform) |
+| **AI Fatigue Detection System** | Computer vision system that detects driver/operator fatigue using eye movement, blink rate, and head pose estimation for safety monitoring. | OpenCV, MediaPipe, FastAPI, React | Computer Vision, Fatigue Detection, Real-Time Monitoring, Human Safety AI | [Video](https://drive.google.com/file/d/1f7WsQwBFYpVdbNWk4hAkC4JQVYeD0NEj/view) | [GitHub](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking/driver-fatigue-system) |
+| **Face Recognition & Smart Attendance System** | Real-time face recognition platform for secure attendance, identity verification, and access monitoring using facial embeddings. | OpenCV, Face Recognition, FastAPI, React | Face Recognition, Biometrics, Identity Verification, CV Pipelines | [Video](https://drive.google.com/file/d/1XPPhIGygHuuv1DJTwd2UAVQDJkVUyq6B/view) | [GitHub](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking/face-recognition-system) |
+| **AI Product Strategy Framework Repository** | Structured PM/AI strategy repository containing PRDs, system design frameworks, AI governance, and operational execution models. | Markdown, Mermaid, GitHub | Product Strategy, AI Governance, System Design, Leadership Frameworks | [Video](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking) | [GitHub](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking) |[↑ Back to top](#top)
 
 ---
 
