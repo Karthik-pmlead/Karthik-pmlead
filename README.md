@@ -47,12 +47,7 @@
 | **🏆 Certifications** | [Full Certifications](./profile/certifications.md) |
 | **💼 Projects** |  [Projects Index](Projects.md) |
 
-
-## Featured Projects
-
-| # | Project | Repo | Impact | Live Demo |
-|---|---------|------|--------|-----------|
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Key Concepts | Demo | Repo |
 |---|---|---|---|---|---|
