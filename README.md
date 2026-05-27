@@ -48,7 +48,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | **💼 Projects** |  [Projects Index](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking/07-projects) |
 
