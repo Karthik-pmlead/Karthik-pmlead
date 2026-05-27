@@ -45,7 +45,7 @@
 | Section | Link |
 |:--------|:-----|
 | **🏆 Certifications** | [Full Certifications](./profile/certifications.md) |
-| **💼 Projects** |  [Projects Index](Projects.md) |
+| **💼 Projects** |  [Projects Index](https://github.com/Karthik-pmlead/ai-product-leadership/blob/main/Projects.md) |
 
 ## 🚀 Featured Projects
 
