@@ -60,13 +60,13 @@
 | **Sentiment Intelligence Platform** | Real-time sentiment monitoring system that analyzes customer and operational signals to identify trends, risks, and engagement patterns. | FastAPI, Transformers, React | NLP, Sentiment Analysis, Explainability, Streaming Analytics | [Video](https://drive.google.com/file/d/145Y7sMMRVpnD88HvulEy8ul_hGg9Fda-/view) | [GitHub](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking/07-projects/sentiment-intelligence-platform) |
 | **AI Fatigue Detection System** | Computer vision system that detects driver/operator fatigue using eye movement, blink rate, and head pose estimation for safety monitoring. | OpenCV, MediaPipe, FastAPI, React | Computer Vision, Fatigue Detection, Real-Time Monitoring, Human Safety AI | [Video](https://drive.google.com/file/d/1f7WsQwBFYpVdbNWk4hAkC4JQVYeD0NEj/view) | [GitHub](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking/07-projects/driver-fatigue-system) |
 | **Face Recognition & Smart Attendance System** | Real-time face recognition platform for secure attendance, identity verification, and access monitoring using facial embeddings. | OpenCV, Face Recognition, FastAPI, React | Face Recognition, Biometrics, Identity Verification, CV Pipelines | [Video](https://drive.google.com/file/d/1XPPhIGygHuuv1DJTwd2UAVQDJkVUyq6B/view) | [GitHub](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking/07-projects/face-recognition-system) |
-| **AI Product Strategy Framework Repository** | Structured PM/AI strategy repository containing PRDs, system design frameworks, AI governance, and operational execution models. | Markdown, Mermaid, GitHub | Product Strategy, AI Governance, System Design, Leadership Frameworks | [Video](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking) | [GitHub](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking) |[↑ Back to top](#top)
+| **AI Product Strategy Framework Repository** | Structured PM/AI strategy repository containing PRDs, system design frameworks, AI governance, and operational execution models. | Markdown, Mermaid, GitHub | Product Strategy, AI Governance, System Design, Leadership Frameworks | --- | [GitHub](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking) |[↑ Back to top](#top)
 
 ---
 
 ## Competency Map
 
-<img src="profile/images/flywheel.png" width="280" align="right" hspace="20">
+<img src="profile/images/flywheel.png" width="240" align="right" hspace="20">
 
 | SNo | Competency | Folder | Key Proof |
 |-----|------------|--------|-----------|
