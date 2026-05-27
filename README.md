@@ -137,7 +137,7 @@
 | | |
 | :--- | :--- |
 | **📧 Email:** | karthik_prdmgr@hotmail.com |
-| **💼 LinkedIn:** | [Connect on LinkedIn](https://linkedin.com/in) |
+| **💼 LinkedIn:** | [Connect on LinkedIn](www.linkedin.com/in/karthik-dir) |
 | **🤝 Working Style** | [Collaboraton guide](./profile/working-style.md) |
 | **🤝 GitHub** | [Git](https://github.com/Karthik-pmlead/Karthik-pmlead) |
 
