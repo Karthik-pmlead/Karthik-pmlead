@@ -66,7 +66,7 @@
 
 ## Competency Map
 
-<img src="profile/images/flywheel.png" width="300" align="right" hspace="20">
+<img src="profile/images/flywheel.png" width="280" align="right" hspace="20">
 
 | SNo | Competency | Folder | Key Proof |
 |-----|------------|--------|-----------|
