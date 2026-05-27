@@ -75,7 +75,7 @@
 | 3.0 | **Lead** | [leadership/](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/03-leadership) | 50+ engineers, 95% delivery |
 | 4.0 | **Execute** | [project-mgmt/](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/05-project-mgmt)  | MLOps + case studies |
 | 5.0 | **Scale** | [process-excellence/](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/04-process-excellence) | Operating model |
-| 6.0 | **Think** | [ai-product-thinking/]([08-ai-product-thinking/](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking)) | Mental models |
+| 6.0 | **Think** | [ai-product-thinking/](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/08-ai-product-thinking) | Mental models |
 | 7.0 | **Govern** | [security-compliance/](https://github.com/Karthik-pmlead/ai-product-leadership/tree/main/07-security-compliance) | Enterprise AI |
 
 ## Technical Mastery Business Impact
