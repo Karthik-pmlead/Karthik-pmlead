@@ -29,18 +29,34 @@ LinkedIn: https://linkedin.com/in/xxxx | GitHub: https://github.com/xxxx
 # 🛠 SKILLS
 
 ## Product & Strategy
-PRD, Roadmapping, OKRs, Stakeholder Management, Growth Strategy, User Research
+Product Vision | Roadmapping | PRDs | OKRs & KPI Design  
+GTM Strategy | Prioritization | Competitive Analysis  
+Program & Project Management | Stakeholder Management | Risk Management  
+Cross-functional Leadership (Eng, DS, Design, Business)
 
 ## AI / Data / Systems
-GenAI, LLM Applications, ML Pipelines, Recommendation Systems, Fraud Detection Systems, Decision Engines
+Machine Learning Fundamentals (Regression, Classification, Clustering, Trees)  
+Recommendation & Ranking Systems | NLP | Time Series  
+LLMs | RAG Architectures | Prompt Engineering | AI Agents  
+Vector Databases | AI Evaluation | AI Safety & Responsible AI  
+AI-driven Decision Systems (Fraud, Risk, Personalization)
 
 ## Data & Analytics
-SQL, Experimentation Design, A/B Testing, Cohort Analysis, Funnel Analytics, Metrics Design
+SQL | KPI & Metrics Design (North Star, Funnels, Cohorts)  
+A/B Testing & Experimentation Design | Statistical Thinking  
+Python (Pandas for analysis) | EDA | RFM Analysis  
+BI Tools: Power BI | Tableau | Excel (Advanced)
 
-## Execution & Tools
-Agile/Scrum, JIRA, Confluence, Figma, API Design, Event-driven Systems
+
+## MLOps, Platforms & Execution
+ML Pipeline Lifecycle (Train → Deploy → Monitor)  
+Feature Engineering Concepts | Model Monitoring & Drift  
+Docker | MLflow | CI/CD Concepts  
+REST APIs | System Design Awareness | Cloud (AWS: SageMaker basics)  
+Agile/Scrum | Jira | Confluence | SDLC
 
 ---
+
 
 # 💼 EXPERIENCE
 
