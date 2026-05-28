@@ -126,7 +126,7 @@
 
 ## Resume
 
-📄 Download Resume: [View PDF](./Karthik_Resume.pdf)
+📄 Download Resume: [View PDF](./resume/Karthik_Resume.pdf)
 
 --- 
 
