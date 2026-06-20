@@ -22,11 +22,16 @@
 
 ---
 
-## Knowledge Systems
-  
-- AI Product Leadership → https://github.com/Karthik-pmlead/ai-product-leadership
-- PM Workflow System → https://github.com/username/pm-workflow
-- AI Operating Model → https://github.com/username/ai-operating-model
+## Contact
+
++ **Status:** Open to Executive, Director-level AI PM roles
+
+| | |
+| :--- | :--- |
+| **📧 Email:** | karthik_prdmgr@hotmail.com |
+| **💼 LinkedIn:** | [Connect on LinkedIn](www.linkedin.com/in/karthik-dir) |
+| **🤝 Working Style** | [Collaboraton guide](./profile/working-style.md) |
+| **🤝 GitHub** | [Git](https://github.com/Karthik-pmlead/Karthik-pmlead) |
 
 ---
 
@@ -132,17 +137,9 @@
 
 --- 
 
-## Contact
-
-+ **Status:** Open to Executive, Director-level AI PM roles
-
-| | |
-| :--- | :--- |
-| **📧 Email:** | karthik_prdmgr@hotmail.com |
-| **💼 LinkedIn:** | [Connect on LinkedIn](www.linkedin.com/in/karthik-dir) |
-| **🤝 Working Style** | [Collaboraton guide](./profile/working-style.md) |
-| **🤝 GitHub** | [Git](https://github.com/Karthik-pmlead/Karthik-pmlead) |
-
+## Knowledge Systems
+  
+- AI Product Leadership → https://github.com/Karthik-pmlead/ai-product-leadership
 
 [↑ Back to top](#top)
 
