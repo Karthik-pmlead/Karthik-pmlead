@@ -11,14 +11,24 @@ Feel free to explore the courses and learn more about them.
 
 # List of Nanodegree ![List of Certificates](https://img.shields.io/badge/List%20of%20Certificates-green?style=flat-square&logo=certificate)
 
+### Product
 Certificate | MOOC | Date Completed | Status | Certificate | 
 ------------ | ------------- | -------------------- | -------------------- | -------------------- |
+**[Full Stack Product Management](./courses/product-school/Full_Stack_Product_Management_Course_details.md)**  | ![Product School](https://img.shields.io/badge/Product%20School-FF6138?style=flat-square&logo=product-hunt&logoColor=white) | Jan 2020 | ✅ | [View Certificate](./certificates/8.0-ProductSchoolCertificate.pdf) |
 **[Product Management](./courses/udacity/Product_Management_course_details.md)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Apr 2020 | ✅ | [View Certificate](./certificates/2.0-ProductManagementCertificate_Udacity.pdf) |
-**[Artificial_Intelligence_Product_Management](./courses/udacity/AI_Product_manager_course_details.md)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Jan 2020 | ✅ | [View Certificate](./certificates/1.0-AI_ProductManager_Certificate.pdf) |
 **[Growth Product Manager](./courses/udacity/Growth_Product_Manager_course_details.md)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Dec 2020 | ✅ | [View Certificate](./certificates/7.0-MonetizationStrategy_UdacityCertificate.pdf) |
+
+### DataScience AI & ML
+Certificate | MOOC | Date Completed | Status | Certificate | 
+------------ | ------------- | -------------------- | -------------------- | -------------------- |
+**[DataScience_MachineLearning_AI](./courses/scaler/DataScience_ML_course_details.md)**  | ![Scaler](https://img.shields.io/badge/Scaler-03A9F4?style=flat-square) | May 2026 | ✅ | N/A |
+**[Artificial_Intelligence_Product_Management](./courses/udacity/AI_Product_manager_course_details.md)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Jan 2020 | ✅ | [View Certificate](./certificates/1.0-AI_ProductManager_Certificate.pdf) |
 **[4_Data_Product_Manager](#4_Data_Product_Manager)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Apr 2021 | ✅ | [View Certificate](00-professional-development/Certificates/2.0-ProductManagementCertificate_Udacity.pdf) |
+
+### Cloud and Data 
+
+Certificate | MOOC | Date Completed | Status | Certificate | 
+------------ | ------------- | -------------------- | -------------------- | -------------------- |
+**[AWS Cloud Architect](./courses/udacity/AWS_Cloud_Architect_course_details.md)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Dec 2020 | ✅ | [View Certificate](./certificates/4.0-AWSCloudArchitect_UdacityCertificate.pdf) |
 **[Data Engineering](./courses/udacity/Data_Engineering_course_details.md)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Dec 2020 | ✅ | [View Certificate](./certificates/5.0-DataEngineering_UdacityCertificate.pdf) |
 **[Data Streaming](./courses/udacity/Data_Streaming_course_details.md)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Dec 2020 | ✅ | [View Certificate](./certificates/6.0-DataStreaming_UdacityCertificate.pdf) |
-**[AWS Cloud Architect](./courses/udacity/AWS_Cloud_Architect_course_details.md)**  | ![Udacity](https://img.shields.io/badge/Udacity-02B3E4?style=flat-square&logo=udacity&logoColor=white) | Dec 2020 | ✅ | [View Certificate](./certificates/4.0-AWSCloudArchitect_UdacityCertificate.pdf) |
-**[Full Stack Product Management](./courses/product-school/Full_Stack_Product_Management_Course_details.md)**  | ![Product School](https://img.shields.io/badge/Product%20School-FF6138?style=flat-square&logo=product-hunt&logoColor=white) | Jan 2020 | ✅ | [View Certificate](./certificates/8.0-ProductSchoolCertificate.pdf) |
-**[DataScience_MachineLearning_AI](./courses/scaler/DataScience_ML_course_details.md)**  | ![Scaler](https://img.shields.io/badge/Scaler-03A9F4?style=flat-square) | May 2026 | ✅ | N/A |
