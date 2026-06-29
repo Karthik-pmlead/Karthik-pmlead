@@ -14,7 +14,7 @@
 ## About Me 
 | AI Product Leader | Technical Manager |
 
-> I lead product organizations at enterprise scale, blending deep engineering expertise, MBA-level strategic frameworks, and senior product leadership to deliver multimillion-dollar business impact.
+> I build intelligent enterprise platforms that transform fragmented products, processes, and data into scalable decision systems. My experience spans AI, analytics, IoT, enterprise security, and cross-functional product leadership, delivering multimillion-dollar business impact from strategy through production.
 
 > **Led teams across Engg/DS/Design** from customer discovery through production launches, achieving **95% on-time delivery** and **significant business results**. 
 
@@ -42,6 +42,28 @@
 - **Delivered** high-impact launches by translating complex ML requirements into stakeholder-ready strategies
 
 [↑ Back to top](#top)
+
+---
+
+## ⭐ Enterprise Platform Portfolio
+
+Beyond implementation projects, I develop conceptual enterprise platforms that demonstrate product strategy, platform thinking, and systems design at enterprise scale. These repositories showcase how fragmented products, processes, and data can be transformed into intelligent decision platforms.
+
+| Platform                                              | Focus                                                                                                  | Repository |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
+| 🏢 Enterprise Physical Security Intelligence Platform | Reimagining physical access control as a real-time trust and decision platform                         | GitHub     |
+| 🔐 Enterprise Trust Platform                          | Unifying identity, risk, policy, compliance, and AI governance into a shared enterprise trust platform | GitHub     |
+| 📊 KPI Decision Intelligence Platform                 | Transforming enterprise KPIs into AI-assisted decision intelligence for business leaders               | GitHub     |
+| ⚙️ Organization Operating System (Org OS)             | Aligning strategy, roadmaps, KPIs, governance, and execution through a unified operating model         | GitHub     |
+
+**Platform Themes**
+
+* Enterprise Platforms
+* AI Decision Systems
+* Trust & Governance
+* Real-Time Intelligence
+* Product Strategy
+* Executive Operating Models
 
 ---
 
@@ -137,9 +159,18 @@
 
 --- 
 
-## Knowledge Systems
-  
-- AI Product Leadership → https://github.com/Karthik-pmlead/ai-product-leadership
+## Knowledge Systems & Platform Portfolio
+
+### Enterprise Platforms
+
+* Enterprise Physical Security Intelligence Platform
+* Enterprise Trust Platform
+* KPI Decision Intelligence Platform
+* Organization Operating System (Org OS)
+
+### Product Leadership
+
+- AI Product Leadership Playbook → https://github.com/Karthik-pmlead/ai-product-leadership  
 
 [↑ Back to top](#top)
 
