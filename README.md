@@ -155,7 +155,7 @@ Beyond implementation projects, I develop conceptual enterprise platforms that d
 
 ## Resume
 
-📄 Download Resume: [View PDF](./Karthik_Rao_PrdMgr_Resume.pdf)
+📄 Download Resume: [View PDF](./Karthik_Rao_PrdMgr_Resume_Git.pdf)
 
 --- 
 
