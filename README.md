@@ -47,7 +47,9 @@
 
 ## ⭐ Enterprise Platform Portfolio
 
-Beyond implementation projects, I develop conceptual enterprise platforms that demonstrate product strategy, platform thinking, and systems design at enterprise scale. These repositories showcase how fragmented products, processes, and data can be transformed into intelligent decision platforms.
+- Across my enterprise product experience at various organizations, I have worked on systems spanning AI, IoT, data, and operational intelligence domains.
+
+- To articulate and generalize this work at a system level, I structure my experience into platform-based case studies such as Enterprise Physical Security Intelligence, Enterprise Trust Platforms, Organization Operating Systems, and KPI Decision Intelligence systems. These represent patterns of how fragmented enterprise products, processes, and data can be transformed into unified, AI-driven decision platforms.
 
 | Platform                                              | Focus                                                                                                  | Repository |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
