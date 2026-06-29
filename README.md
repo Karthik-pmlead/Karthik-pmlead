@@ -37,9 +37,9 @@
 
 ## Professional Experience Impact
 
-- **Led** technical teams (Engg/DS/Design) through complete product lifecycles, achieving **95% on-time delivery**
-- **Architected** AI product roadmaps aligning C-suite priorities with scalable technical execution
-- **Delivered** high-impact launches by translating complex ML requirements into stakeholder-ready strategies
+- Led cross-functional teams across Engineering, Data Science, and Design to deliver enterprise AI and platform products with predictable execution and high adoption outcomes
+- Translated executive strategy into scalable product architectures, aligning business goals with technical system design across enterprise environments
+- Delivered AI-enabled and data-driven product capabilities by bridging machine learning models with real-world business workflows and stakeholder needs
 
 [↑ Back to top](#top)
 
