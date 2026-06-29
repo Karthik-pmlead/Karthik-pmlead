@@ -51,7 +51,7 @@ Beyond implementation projects, I develop conceptual enterprise platforms that d
 
 | Platform                                              | Focus                                                                                                  | Repository |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ---------- |
-| 🏢 Enterprise Physical Security Intelligence Platform | Reimagining physical access control as a real-time trust and decision platform                         | GitHub     |
+| 🏢 Enterprise Physical Security Intelligence Platform | Reimagining physical access control as a real-time trust and decision platform                         | [GitHub](https://github.com/Karthik-pmlead/enterprise-physical-security-intelligence-platform/tree/main)     |
 | 🔐 Enterprise Trust Platform                          | Unifying identity, risk, policy, compliance, and AI governance into a shared enterprise trust platform | GitHub     |
 | 📊 KPI Decision Intelligence Platform                 | Transforming enterprise KPIs into AI-assisted decision intelligence for business leaders               | GitHub     |
 | ⚙️ Organization Operating System (Org OS)             | Aligning strategy, roadmaps, KPIs, governance, and execution through a unified operating model         | GitHub     |
