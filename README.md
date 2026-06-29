@@ -16,9 +16,9 @@
 
 > I build intelligent enterprise platforms that transform fragmented products, processes, and data into scalable decision systems. My experience spans AI, analytics, IoT, enterprise security, and cross-functional product leadership, delivering multimillion-dollar business impact from strategy through production.
 
-> **Led teams across Engg/DS/Design** from customer discovery through production launches, achieving **95% on-time delivery** and **significant business results**. 
+> **Led cross-functional product teams across Engineering, Data Science, and Design to deliver enterprise AI and platform systems from discovery to production, ensuring alignment between technical execution and business outcomes**. 
 
-> Specialize in architecting production-grade PRDs, C-suite aligned roadmaps, and scalable operating models that translate complex technical requirements into stakeholder business objectives.
+> Designed and scaled product operating models and decision frameworks that translate complex enterprise requirements into AI-driven, production-ready systems and executive-level roadmaps.
 
 ---
 
